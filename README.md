@@ -1,9 +1,8 @@
 <div align="center">
 
-# 🛡️ SSHH
-<img src="assets/sshh.png" width="45%"/> 
-# SSH-Tunnel-VPN-Client
-Windows SSH VPN Tunnel Client (SSHH)
+<img src="assets/sshh.png" width="30%"/> 
+
+# SSH VPN Client FOR WINDOWS
 ### Tunnel boldly. The free internet belongs to everyone.
 
 A lightweight, beautiful, open-source **SSH-based VPN / proxy client for Windows**, built with Python & PyQt6.
