@@ -50,9 +50,9 @@ It is heavily inspired by projects like [csharp-ssh-vpn](https://github.com/omid
 <div align="center">
 
 <!-- جای عکس‌ها -->
-<img src="assets/dashboard.png" width="45%"/> <img src="assets/profiles.png" width="45%"/>
-<img src="assets/stats.png" width="45%"/> <img src="assets/light-theme.png" width="45%"/>
-
+<img src="assets/menu.png" width="45%"/> <img src="assets/profiles.png" width="45%"/>
+<img src="assets/logs.png" width="45%"/> <img src="assets/statics.png" width="45%"/>
+<img src="assets/settings.png" width="45%"/> <img src="assets/about.png" width="45%"/>
 </div>
 
 ### 🚀 Getting Started
