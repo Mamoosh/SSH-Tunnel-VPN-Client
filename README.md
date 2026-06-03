@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🛡️ SSHH
+<img src="assets/sshh.png" width="45%"/> 
 # SSH-Tunnel-VPN-Client
 Windows SSH VPN Tunnel Client (SSHH)
 ### Tunnel boldly. The free internet belongs to everyone.
